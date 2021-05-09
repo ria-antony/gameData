@@ -1,0 +1,42 @@
+[
+ {
+   "Game": "Breath of the Wild",
+   "Release_Date": "3/3/2017",
+   "Picture": "img/BOTW.jpg",
+   "Genre": "Action-adventure",
+   "Subreddit": "https://www.reddit.com/r/Breath_of_the_Wild/",
+   "Discord": "https://discord.com/invite/botw"
+ },
+ {
+   "Game": "Ocarina of Time",
+   "Release_Date": "11/21/1998",
+   "Picture": "img/Ocarina.jpg",
+   "Genre": "Action-adventure",
+   "Subreddit": "https://www.reddit.com/r/ZeldaOoT/",
+   "Discord": "https://discord.com/invite/rzelda"
+ },
+ {
+   "Game": "Majora's Mask",
+   "Release_Date": "4/27/2000",
+   "Picture": "img/Majora.jpg",
+   "Genre": "Action-adventure",
+   "Subreddit": "https://www.reddit.com/r/majorasmask/",
+   "Discord": "https://discord.com/invite/rzelda"
+ },
+ {
+   "Game": "Link's Awakening",
+   "Release_Date": "9/20/2019",
+   "Picture": "img/Awakening.jpg",
+   "Genre": "Action-adventure",
+   "Subreddit": "https://www.reddit.com/r/LinksAwakening/",
+   "Discord": "https://discord.com/invite/rzelda"
+ },
+ {
+   "Game": "Twilight Princess",
+   "Release_Date": "11/19/2006",
+   "Picture": "img/twilight.jpg",
+   "Genre": "Action-adventure",
+   "Subreddit": "https://www.reddit.com/r/twilightprincess/",
+   "Discord": "https://discord.com/invite/rzelda"
+ }
+]
